@@ -11495,7 +11495,9 @@ Monogatari Series (яп. 物語シリーズ Моногатари Сири:дзу
 
 CRC32: 0x64abd24b
 ------------------------------
-End of transmissionConnection established
+End of transmission
+
+Connection established
 Time 2022-04-07 08:27:58.271875
 Receiver address (this): ('192.168.1.50', 9090)
 Sender address: ('192.168.1.50', 53122)
@@ -17602,5 +17604,6 @@ Syndrome equals 0, no errors
 Message after deleting control bits: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Batch received and decoded
 
-More than 1 error per message detected, restoration is impossible------------------------------
+More than 1 error per message detected, restoration is impossible
+------------------------------
 End of transmission
